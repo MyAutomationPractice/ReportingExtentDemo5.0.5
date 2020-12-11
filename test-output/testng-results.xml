@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20905" started-at="2020-12-11T17:33:12 IST" finished-at="2020-12-11T17:33:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20905" started-at="2020-12-11T17:33:12 IST" finished-at="2020-12-11T17:33:33 IST">
+      <class name="com.extentreports.test.AttachScreenshotToExtentReport">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.extentreports.test.AttachScreenshotToExtentReport@394e1a0f]" name="setup" is-config="true" duration-ms="440" started-at="2020-12-11T17:33:11 IST" finished-at="2020-12-11T17:33:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AttachBase64()[pri:0, instance:com.extentreports.test.AttachScreenshotToExtentReport@394e1a0f]" name="AttachBase64" duration-ms="7817" started-at="2020-12-11T17:33:12 IST" finished-at="2020-12-11T17:33:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AttachBase64 -->
+        <test-method status="PASS" signature="AttachScreenShot()[pri:0, instance:com.extentreports.test.AttachScreenshotToExtentReport@394e1a0f]" name="AttachScreenShot" duration-ms="6368" started-at="2020-12-11T17:33:20 IST" finished-at="2020-12-11T17:33:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AttachScreenShot -->
+        <test-method status="PASS" signature="AttachScreenShotBase64()[pri:0, instance:com.extentreports.test.AttachScreenshotToExtentReport@394e1a0f]" name="AttachScreenShotBase64" duration-ms="6672" started-at="2020-12-11T17:33:26 IST" finished-at="2020-12-11T17:33:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AttachScreenShotBase64 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.extentreports.test.AttachScreenshotToExtentReport@394e1a0f]" name="teardown" is-config="true" duration-ms="2155" started-at="2020-12-11T17:33:33 IST" finished-at="2020-12-11T17:33:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.extentreports.test.AttachScreenshotToExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
